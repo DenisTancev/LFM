@@ -1,0 +1,31 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #eee;
+}
+
+.container .header {
+    background-color:  #f3a131 ;
+    
+}
+.logo h1 {
+text-align: center; 
+color: darkolivegreen; }
+
+ul {
+    display: flex;
+}
+li {
+    flex-grow: 1;
+    list-style: none;
+   
+}
+li a{
+    font-size: 20px;
+    text-decoration: none;
+    padding-left: 100px;
+    
+}
+li a:hover{
+    color: crimson;
+}
